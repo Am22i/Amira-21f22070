@@ -1,8 +1,8 @@
        While business data {
              } ;
      If customer name{};
-     If name of business{};
-     If investing {
+    Then If name of business{};
+    Then If investing {
     in company 
            }
       else
@@ -10,8 +10,8 @@
      In store
          }  
 If Number of salse{};
-If Number of income {};
-If Number of profit {};
+Then If Number of income {};
+Then If Number of profit {};
 
 10 Submit ++;
 }
